@@ -4,7 +4,7 @@ f5-sdk==3.0.3
 ipaddress==1.0.17
 netaddr==0.7.19
 PyJWT==1.4.0
-PyYAML==4.2b1
+PyYAML==5.4
 requests==2.20.0
 simplejson==3.10.0
 jsonpatch==1.16

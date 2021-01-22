@@ -17,7 +17,6 @@ flake8
 pylint
 netaddr
 q
-PyYAML==5.4
 simplejson
 jsonschema==3.0.0
 jsonpatch==1.16
